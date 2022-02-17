@@ -1,0 +1,132 @@
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "rff-gui.py", line 465, in adjustZoneThenQueueBoth
+  File "rff-gui.py", line 469, in adjustZoneThenQueue
+  File "rff-gui.py", line 392, in constructCommand
+  File "rff-gui.py", line 233, in checkOutstem
+  File "os.pyc", line 157, in makedirs
+WindowsError: [Error 3] The system cannot find the path specified: u'images/2D01.../whole_clean/'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "rff-gui.py", line 465, in adjustZoneThenQueueBoth
+  File "rff-gui.py", line 469, in adjustZoneThenQueue
+  File "rff-gui.py", line 392, in constructCommand
+  File "rff-gui.py", line 233, in checkOutstem
+  File "os.pyc", line 157, in makedirs
+WindowsError: [Error 3] The system cannot find the path specified: u'images/2D01.../whole_clean/'
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "Tkinter.pyc", line 495, in callit
+  File "rff-gui.py", line 664, in analyzeNextInQueue
+  File "shlex.pyc", line 279, in split
+  File "shlex.pyc", line 269, in next
+  File "shlex.pyc", line 96, in get_token
+  File "shlex.pyc", line 172, in read_token
+ValueError: No closing quotation
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "Tkinter.pyc", line 495, in callit
+  File "rff-gui.py", line 665, in analyzeNextInQueue
+  File "subprocess.pyc", line 672, in __init__
+  File "subprocess.pyc", line 882, in _execute_child
+WindowsError: [Error 2] The system cannot find the file specified
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "Tkinter.pyc", line 495, in callit
+  File "rff-gui.py", line 665, in analyzeNextInQueue
+  File "subprocess.pyc", line 672, in __init__
+  File "subprocess.pyc", line 882, in _execute_child
+WindowsError: [Error 2] The system cannot find the file specified
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "Tkinter.pyc", line 495, in callit
+  File "rff-gui.py", line 665, in analyzeNextInQueue
+  File "subprocess.pyc", line 672, in __init__
+  File "subprocess.pyc", line 882, in _execute_child
+WindowsError: [Error 2] The system cannot find the file specified
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "Tkinter.pyc", line 495, in callit
+  File "rff-gui.py", line 665, in analyzeNextInQueue
+  File "subprocess.pyc", line 672, in __init__
+  File "subprocess.pyc", line 882, in _execute_child
+WindowsError: [Error 2] The system cannot find the file specified
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "Tkinter.pyc", line 495, in callit
+  File "rff-gui.py", line 665, in analyzeNextInQueue
+  File "subprocess.pyc", line 672, in __init__
+  File "subprocess.pyc", line 882, in _execute_child
+WindowsError: [Error 2] The system cannot find the file specified
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "Tkinter.pyc", line 495, in callit
+  File "rff-gui.py", line 665, in analyzeNextInQueue
+  File "subprocess.pyc", line 672, in __init__
+  File "subprocess.pyc", line 882, in _execute_child
+WindowsError: [Error 2] The system cannot find the file specified
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "Tkinter.pyc", line 495, in callit
+  File "rff-gui.py", line 665, in analyzeNextInQueue
+  File "subprocess.pyc", line 672, in __init__
+  File "subprocess.pyc", line 882, in _execute_child
+WindowsError: [Error 2] The system cannot find the file specified
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "Tkinter.pyc", line 495, in callit
+  File "rff-gui.py", line 665, in analyzeNextInQueue
+  File "subprocess.pyc", line 672, in __init__
+  File "subprocess.pyc", line 882, in _execute_child
+WindowsError: [Error 2] The system cannot find the file specified
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "Tkinter.pyc", line 495, in callit
+  File "rff-gui.py", line 665, in analyzeNextInQueue
+  File "subprocess.pyc", line 672, in __init__
+  File "subprocess.pyc", line 882, in _execute_child
+WindowsError: [Error 2] The system cannot find the file specified
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "Tkinter.pyc", line 495, in callit
+  File "rff-gui.py", line 665, in analyzeNextInQueue
+  File "subprocess.pyc", line 672, in __init__
+  File "subprocess.pyc", line 882, in _execute_child
+WindowsError: [Error 2] The system cannot find the file specified
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "Tkinter.pyc", line 495, in callit
+  File "rff-gui.py", line 665, in analyzeNextInQueue
+  File "subprocess.pyc", line 672, in __init__
+  File "subprocess.pyc", line 882, in _execute_child
+WindowsError: [Error 2] The system cannot find the file specified
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "Tkinter.pyc", line 495, in callit
+  File "rff-gui.py", line 665, in analyzeNextInQueue
+  File "subprocess.pyc", line 672, in __init__
+  File "subprocess.pyc", line 882, in _execute_child
+WindowsError: [Error 2] The system cannot find the file specified
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "Tkinter.pyc", line 1410, in __call__
+  File "Tkinter.pyc", line 495, in callit
+  File "rff-gui.py", line 665, in analyzeNextInQueue
+  File "subprocess.pyc", line 672, in __init__
+  File "subprocess.pyc", line 882, in _execute_child
+WindowsError: [Error 2] The system cannot find the file specified

@@ -1,0 +1,139 @@
+Rodent Face Finder, copyright 2011 Boston Biomedical Research Institute
+
+BOSTON BIOMEDICAL RESEARCH INSTITUTE SOFTWARE LICENSE AGREEMENTThis is an agreement (this "Agreement") between you ("End User") 
+and Boston Biomedical Research Institute ("BBRI") that sets forth 
+End User's rights and obligations with respect to the computer 
+software entitled "Rodent Face Finder" including any BBRI-provided 
+improvements, modifications and updates thereto and any documentation 
+associated therewith (the "Software").  By installing or using 
+the Software, End User agrees to be bound by the terms of this 
+Agreement. 
+
+1. License.
+
+1.1. Grant.  
+
+Subject to the terms of this Agreement, End User is hereby granted 
+an individual, limited, non-exclusive, perpetual, non-transferable, 
+non-sublicenseable license, to the Software solely to (a) install 
+the Software on a computer system owned, leased or operated by 
+End User for use by End User for academic research purposes to 
+quantify pain in laboratory rodents via facial expressions and 
+(b) make a copy of the Software solely for backup or archival 
+purposes.
+
+1.2. Certain Restrictions on Use.  
+
+Except to the extent expressly allowed in Section 1.1, End User
+shall not, and shall not permit any third party to, copy, modify, 
+merge, compile, reverse compile, email, distribute, place on a 
+computer accessible by other computer(s) (including placing on 
+a server, network, intranet or Internet), resell, or otherwise 
+transfer the Software.
+
+
+2. Intellectual Property.  
+
+BBRI owns and retains all of proprietary rights, including any 
+and all patent, copyright, trade secret, trademark and other 
+intellectual property rights, in and to the Software.  End User 
+acknowledges that the license granted herein does not in any 
+way provide it with title to or ownership of the Software, but 
+only a right of limited use under the terms and conditions of 
+this Agreement.  End User shall keep the Software free and 
+clear of all claims, liens and encumbrances.  Except for the 
+rights expressly granted herein, no other rights are granted
+ to End User with respect to the Software and all rights (other 
+than those expressly granted herein), title and interest in and 
+to the Software shall at all times remain the property of BBRI.
+
+
+3. DISCLAIMER OF WARRANTY.  
+
+THE SOFTWARE IS LICENSED ON AN "AS IS" BASIS AND BBRI MAKES NO 
+REPRESENTATIONS OR WARRANTIES, EITHER EXPRESS, IMPLIED, STATUTORY, 
+OR OTHERWISE, WITH RESPECT TO THE SOFTWARE, OR OTHER ACCOMPANYING 
+MATERIAL OR SERVICE, IF ANY, AND BBRI SPECIFICALLY DISCLAIMS ALL 
+EXPRESS AND IMPLIED WARRANTIES, INCLUDING WITHOUT LIMITATION, ALL 
+IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE, AND NON-INFRINGEMENT, OR WARRANTIES ARISING BY STATUTE 
+OR OTHERWISE IN LAW OR FROM A COURSE OF DEALING OR USE OF TRADE.  
+BBRI DOES NOT WARRANT THAT THE OPERATION OR OTHER USE OF THE 
+SOFTWARE WILL BE UNINTERRUPTED OR ERROR FREE OR WILL NOT CAUSE 
+DAMAGE OR DISRUPTION TO END USER'S DATA, COMPUTERS OR NETWORKS.  
+BBRI MAKES NO REPRESENTATIONS OR WARRANTIES REGARDING THE SUPPORT 
+FOR THE SOFTWARE AND THE PARTIES AGREE THAT BBRI SHALL NOT BE HELD 
+LIABLE OR RESPONSIBLE IN ANY WAY FOR BBRI'S ACTIONS OR OMISSIONS 
+IN PROVIDING SUCH SUPPORT.  THESE DISCLAIMERS OF WARRANTY CONSTITUTE 
+AN ESSENTIAL PART OF THIS AGREEMENT.
+4. LIMITATION OF LIABILITY.  
+
+BBRI WILL NOT BE LIABLE FOR ANY LOST PROFITS, LOSS OF DATA, OR 
+COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES OR FOR ANY 
+CLAIM OR DEMAND AGAINST END USER BY ANY OTHER PARTY.  IN NO EVENT 
+WILL BBRI BE LIABLE FOR ANY DIRECT, CONSEQUENTIAL, SPECIAL, INDIRECT, 
+OR EXEMPLARY DAMAGES ARISING OUT OF THIS AGREEMENT, HOWEVER CAUSED 
+AND UNDER ANY THEORY OF LIABILITY (INCLUDING NEGLIGENCE), EVEN IF 
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  END USER AGREES THAT 
+THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF 
+ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
+
+
+5. Termination.   
+
+Either party to this Agreement shall have the right to terminate
+this Agreement and the license granted herein in the event the 
+other party fails to comply with any of the terms and conditions 
+of this Agreement and such default has not been cured within 
+thirty (30) days after receiving written notice of such default
+from the other party.  The rights and obligations of BBRI 
+and End User in Sections 2, 3, 4, 5, and 6 shall survive 
+termination of this Agreement.  Within five (5) days after 
+termination of this Agreement, End User shall return to BBRI 
+or destroy, at End User’s expense, the Software, including all 
+copies thereof, and deliver to BBRI a certification, in 
+writing signed by End User, that the Software and all copies 
+thereof have been returned or destroyed, as requested by BBRI, 
+and their use discontinued.  Nothing contained herein shall 
+limit any other remedies that BBRI may have for the default 
+of End User under this Agreement nor relieve End User of 
+any of its obligations incurred prior to such termination.  
+
+6. Miscellaneous.
+6.1. Entire Agreement; Severability; Waiver.  
+
+This Agreement represents the entire agreement between the 
+parties, and supersedes all prior agreements and understandings, 
+with respect to the matters covered by this Agreement.  If any 
+of the provisions of this Agreement is held by a court of 
+competent jurisdiction to be invalid under any applicable 
+statute or rule of law, such provision shall, to that extent, 
+be deemed omitted, and the remaining portions of this Agreement 
+shall remain in full force and effect.  The waiver of a breach 
+or default or any delay in exercising any rights shall not 
+constitute a waiver of any subsequent breach or default.  
+The headings are for convenience and shall not be used to 
+construe this Agreement.
+
+6.2. Governing Law. 
+
+This Agreement shall in all respects be governed by the laws 
+of the Commonwealth of Massachusetts without reference to its 
+principles of conflicts of laws.  Both parties acknowledge and 
+agree that the U.N. Convention on Contracts for the International
+Sale of Goods shall not apply to the license of the Software 
+hereunder.  All disputes arising under, out of, or in any way 
+connected with the Software or this Agreement shall be 
+litigated exclusively in the state and federal courts sitting 
+in Boston, Massachusetts.  Each party stipulates that the courts
+of the Commonwealth of Massachusetts shall have personal 
+jurisdiction over its person, and hereby irrevocably (i) 
+submits to the personal jurisdiction of said courts and (ii)
+consents to the service of process, pleadings, and notices in 
+connection with any and all actions initiated in said courts 
+and waives any objection to venue.  The parties agree that a 
+final judgment in any such action or proceeding shall be
+conclusive and binding and may be enforced in any other 
+jurisdiction.
+
+

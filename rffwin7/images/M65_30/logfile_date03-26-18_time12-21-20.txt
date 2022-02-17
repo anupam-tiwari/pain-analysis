@@ -1,0 +1,26 @@
+Rodent Face Finder version 0.1.7, July 7, 2011
+Invoked at 12-21-20 on 03-26-18 with command: 
+ ./rff-bin.exe -i F:/Pain face MLA study/videos_unc/hi thruput/3-8-18/camera1_3-8-18/M65_30&M66_30.MP4 -o images/M65_30/<img_option>/<img_option>_M65_30M66_30_<frame_number>.png -b4 -g1 -s2 -p0 -d0 -fneh -k1 -m1 -zB
+video file name: F:/Pain face MLA study/videos_unc/hi thruput/3-8-18/camera1_3-8-18/M65_30&M66_30.MP4
+cage number (1=L,2=R,0=coords_given): 1
+burst length (in seconds): 4
+gap between bursts (in seconds): 1
+stem for saved images: images/M65_30/<img_option>/<img_option>_M65_30M66_30_<frame_number>.png
+deinterlace mode (0=none,1=bob,2=linear): 0
+----------------------
+video frame height: 1080
+video frame width:  1920
+video frame rate:   29.97
+video frame count:  60135
+length in minutes:  33.4417
+----------------------
+Displaying and analyzing video at half-size.
+Skipping first 30 frames.
+First three frame positions: 13, 17, 18
+Auto-speed: using fast mode (skipping over gaps, may cause frame counts to be slightly off).
+Command for non-interactive analysis:
+"./rff-bin.exe" -i "F:/Pain face MLA study/videos_unc/hi thruput/3-8-18/camera1_3-8-18/M65_30&M66_30.MP4" -o "images/M65_30/<img_option>/<img_option>_M65_30M66_30_<frame_number>.png" -b4 -g1 -s2 -p0 -d0 -fneh -k1 -m2 -z503,52,382,472:105,42,376,477
+Exiting without analyzing video.
+----------------------
+Start of analysis: 12:21:27 on 03/26/18
+End of analysis: 12:21:27 on 03/26/18
